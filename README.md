@@ -240,3 +240,6 @@ This repository serves as the official landing page for Xilisoft DVD Creator. Th
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Xilisoft DVD Creator today!**
+
+---
+**Last updated:** 2026-09-11 16:57:09 UTC
